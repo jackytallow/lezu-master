@@ -1,0 +1,37 @@
+<view class='container'>
+  <view class='top'>
+    <view class='imgtop'>
+      <image class='p1top' src='../../imgs/p1-top.png'></image>
+    </view>
+    <view class='content'>
+      <view class='con-top'>
+        <view class='top-title'>
+        说出你的要求，小仙帮你找美房~
+        </view> 
+        <image class='p1tit' src='../../imgs/p1-tit.png'></image>    
+      </view>
+      <view class='con-mid'>
+        <view class='con-input'>
+          <text>当前月薪</text>
+          <input type='text' name='monthlySalary'></input>
+        </view>
+        <view class='con-input'>
+          <text>期待户型</text>
+          <input type='text' name='expectedUnit'></input>        
+        </view>
+        <view class='con-input'>
+          <text>工作地标</text>
+          <input type='text' name='workPlace'></input>
+        </view>     
+      </view>
+      <view class='btn'>
+     <navigator url='/pages/recommend/recommend'>快速速帮我找美房</navigator> 
+      </view>
+    </view>
+  </view>
+  
+  <view class='imgbom'>
+    <image class='p1bom' src='../../imgs/p1-bom.png'></image>  
+  </view>
+
+</view>
