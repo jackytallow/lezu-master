@@ -124,3 +124,19 @@ input{
 
 
 
+/* .session-picker{
+  line-height: 1;
+  width: 340rpx;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+  height: 56rpx;
+  margin-top: 30rpx;
+}
+.session-picker .picker{
+  color: #666666;
+  font-size: 26rpx;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 15rpx;
+  width:100%;
+} */
